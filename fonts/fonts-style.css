@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Bold.woff2') format('woff2'),
+        url('PulpDisplay-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Regular.woff2') format('woff2'),
+        url('PulpDisplay-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Medium.woff2') format('woff2'),
+        url('PulpDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pulp Display';
+    src: url('PulpDisplay-Light.woff2') format('woff2'),
+        url('PulpDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Osaka-Sans Serif';
+    src: url('Osaka-SansSerif.woff2') format('woff2'),
+        url('Osaka-SansSerif.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
